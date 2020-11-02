@@ -14,4 +14,3 @@ while pass_estimado!=pass_ingresado
 end
 
 puts "#{numero_intentos} intentos"
-
